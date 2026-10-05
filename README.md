@@ -1,1 +1,2 @@
-wip
+<p align="center"><img src="https://i.postimg.cc/pdk6nTyj/akiren.png" height="250px"></p>
+<p align="center"><a href="https://github.com/sungsun0"><img src="https://github.com/dubadduwariwari/dubadduwariwari/blob/3714f736e7d10c8ce62823af81ec57e5c9281b7f/main.png" width="90px"></a>ㅤㅤ<a href="https://sungsun0.atabook.org/"><img src="https://github.com/dubadduwariwari/dubadduwariwari/blob/3714f736e7d10c8ce62823af81ec57e5c9281b7f/atabook.png" height="43px"></a></p>

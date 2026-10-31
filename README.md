@@ -4,7 +4,9 @@
    <tr>
      <td>
  <p align=center>  
-$\text{\color{#ccc2ff} sunny  .  iwc when this }$
+$\text{\color{#92b6f0} 𝙨𝙪𝙣𝙣𝙮  .  𝗶𝘄𝗰 𝘄𝗵𝗲𝗻 𝘁𝗵𝗶𝘀 𝗮𝗰𝗰𝗼𝘂𝗻𝘁 𝗶𝘀 𝘁𝗼𝗴𝗴𝗹𝗲𝗱 𝗼𝗻.ᐟ }$<br>
+$\text{\color{#a0bff0} 𝗱𝗿𝗮𝗶𝗻𝗲𝗱, 𝘃𝗲𝗿𝗯𝗮𝗹 𝘀𝗵𝘂𝘁𝗱𝗼𝘄𝗻 𝗼𝗿 𝗻𝗼𝗻-𝘃𝗲𝗿𝗯𝗮𝗹 𝘄𝗵𝗲𝗻 𝘁𝗵𝗶𝗻𝗴𝘀 𝗳𝗲𝗲𝗹 𝘁𝗼𝗼 𝗺𝘂𝗰𝗵 }$
+$\text{\color{#b2cbf2} 𝗶 𝗱𝗼𝗻'𝘁 𝗺𝗶𝗻𝗱 𝗰 + 𝗵, 𝘂𝗻𝗹𝗲𝘀𝘀 𝗱𝗻𝗶𝘂𝗳 𝗶𝘀 𝗶𝗻 𝗺𝘆 𝗻𝗮𝗺𝗲 }$
      </td>
    </tr>
  </table>

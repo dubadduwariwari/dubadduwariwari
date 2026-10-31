@@ -1,3 +1,21 @@
+<div id="header"align="center">
+<p align=center>
+ <table>
+   <tr>
+     <td>
+ <p align=center>  
+$\text{\color{#ccc2ff} sunny  .  iwc when this }$
+     </td>
+   </tr>
+ </table>
+<p align=center>  
+  </p>
+    <div id="header"align="center">
+<table>
+  <thead>
+    <tr>
+   <p align=center>
+
 https://github.com/user-attachments/assets/319da92c-b040-498f-ae1f-828e51a47197
 
 <p align="center"><img src="https://github.com/dubadduwariwari/dubadduwariwari/blob/c79c98ac56b7060eb9008a458cff7dbad4564013/wing%20-%20Copy.png" height="50px">ㅤㅤ<a href="https://github.com/sungsun0"><img src="https://github.com/dubadduwariwari/dubadduwariwari/blob/2e754e0a5c31fe454c6c7ca21bcdcce54d61c7d6/blue%20main.png" width="120px"></a>ㅤ<a href="https://sungsun0.atabook.org/"><img src="https://github.com/dubadduwariwari/dubadduwariwari/blob/2e754e0a5c31fe454c6c7ca21bcdcce54d61c7d6/blue%20atabook.png" height="56px"></a>ㅤㅤ<img src="https://github.com/dubadduwariwari/dubadduwariwari/blob/e88b7feef3440f2520327cc7ce914fcf5fc4b23b/wing.png" height="50px"></p>
